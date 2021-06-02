@@ -1,0 +1,7 @@
+[30-Apr-2021 01:00:50 America/New_York] PHP Notice:  Undefined index: ID in /home/enigvvag/public_html/admin/volunteers1.php on line 166
+[30-Apr-2021 19:53:47 America/New_York] PHP Notice:  Undefined variable: totalhospital in /home/enigvvag/public_html/admin/home.php on line 141
+[30-Apr-2021 19:53:47 America/New_York] PHP Notice:  Undefined variable: totaloxygen in /home/enigvvag/public_html/admin/home.php on line 155
+[30-Apr-2021 19:53:47 America/New_York] PHP Notice:  Undefined variable: totalresources in /home/enigvvag/public_html/admin/home.php on line 169
+[30-Apr-2021 19:54:54 America/New_York] PHP Notice:  Undefined variable: totalhospital in /home/enigvvag/public_html/admin/home.php on line 141
+[30-Apr-2021 19:54:54 America/New_York] PHP Notice:  Undefined variable: totaloxygen in /home/enigvvag/public_html/admin/home.php on line 155
+[30-Apr-2021 19:54:54 America/New_York] PHP Notice:  Undefined variable: totalresources in /home/enigvvag/public_html/admin/home.php on line 169

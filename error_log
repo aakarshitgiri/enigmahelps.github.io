@@ -1,0 +1,30 @@
+[29-Apr-2021 20:27:51 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enigvvag/public_html/config.php on line 8
+[29-Apr-2021 20:27:51 America/New_York] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/enigvvag/public_html/config.php on line 11
+[29-Apr-2021 20:27:54 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enigvvag/public_html/config.php on line 8
+[29-Apr-2021 20:27:54 America/New_York] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/enigvvag/public_html/config.php on line 11
+[29-Apr-2021 20:28:10 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enigvvag/public_html/config.php on line 8
+[29-Apr-2021 20:28:10 America/New_York] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/enigvvag/public_html/config.php on line 11
+[29-Apr-2021 20:29:09 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enigvvag/public_html/config.php on line 8
+[29-Apr-2021 20:29:09 America/New_York] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/enigvvag/public_html/config.php on line 11
+[29-Apr-2021 20:29:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/enigvvag/public_html/hospital.php on line 34
+[29-Apr-2021 20:29:09 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enigvvag/public_html/hospital.php on line 35
+[29-Apr-2021 20:29:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/enigvvag/public_html/hospital.php on line 36
+[29-Apr-2021 20:29:13 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enigvvag/public_html/config.php on line 8
+[29-Apr-2021 20:29:13 America/New_York] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/enigvvag/public_html/config.php on line 11
+[29-Apr-2021 20:29:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/enigvvag/public_html/oxygen.php on line 25
+[29-Apr-2021 20:29:13 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/enigvvag/public_html/oxygen.php on line 26
+[29-Apr-2021 20:29:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/enigvvag/public_html/oxygen.php on line 27
+[29-Apr-2021 20:29:16 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enigvvag/public_html/config.php on line 8
+[29-Apr-2021 20:29:16 America/New_York] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/enigvvag/public_html/config.php on line 11
+[29-Apr-2021 20:29:38 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enigvvag/public_html/config.php on line 8
+[29-Apr-2021 20:29:38 America/New_York] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/enigvvag/public_html/config.php on line 11
+[29-Apr-2021 21:02:59 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enigvvag/public_html/config.php on line 8
+[29-Apr-2021 21:02:59 America/New_York] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/enigvvag/public_html/config.php on line 11
+[29-Apr-2021 21:03:48 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enigvvag/public_html/config.php on line 8
+[29-Apr-2021 21:03:48 America/New_York] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/enigvvag/public_html/config.php on line 11
+[29-Apr-2021 21:03:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/enigvvag/public_html/joinus.php on line 386
+[29-Apr-2021 21:04:29 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enigvvag/public_html/config.php on line 8
+[29-Apr-2021 21:04:29 America/New_York] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/enigvvag/public_html/config.php on line 11
+[29-Apr-2021 21:04:34 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/enigvvag/public_html/config.php on line 8
+[29-Apr-2021 21:04:34 America/New_York] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/enigvvag/public_html/config.php on line 11
+[04-May-2021 03:39:46 America/New_York] PHP Notice:  Undefined index: fullname32 in /home/enigvvag/public_html/needhelp.php on line 195
